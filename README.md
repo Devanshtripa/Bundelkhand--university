@@ -1,4 +1,4 @@
 # Bundelkhand--university
 This is my first Git Repository
 <br>
-author-Devansh Tripathi (bundelkhand university)
+author-Devansh  (bundelkhand university)
